@@ -1,0 +1,2 @@
+defmodule ElixirUnicodeImport do
+end
