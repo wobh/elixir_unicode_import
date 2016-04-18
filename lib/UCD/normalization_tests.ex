@@ -22,7 +22,7 @@ defmodule UCD.NormalizationTests do
 
 	def forms(), do: @normalization_forms
 	
-	@normalization_tests Path.expand("var/UCD/TestNormalizationText7.txt")
+	@normalization_tests Path.expand("tmp/TestNormalizationText7.txt")
 	# @normalization_tests Path.expand("var/UCD/unicode/NormalizationTests.txt")
 
 	def path(), do: @normalization_tests
